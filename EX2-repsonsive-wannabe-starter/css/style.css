@@ -138,4 +138,10 @@ img {
     .row{
         display: block;
     }
+
+    .col{
+        margin: auto;
+    }
+
+    
 }
