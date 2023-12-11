@@ -143,5 +143,18 @@ img {
         margin: auto;
     }
 
+    .steps{
+        margin: 0;
+    }
+
+    .why-us{
+        background-color: rgb(19, 18, 18);
+        margin-bottom: 0;
+    }
+
+    .why-us li{
+        margin-bottom: 0;
+    }
+
     
 }
